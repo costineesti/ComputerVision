@@ -1,0 +1,3 @@
+[submodule "1_VLM_Scenario/mobilesam"]
+	path = 1_VLM_Scenario/mobilesam
+	url = https://github.com/ChaoningZhang/MobileSAM.git
